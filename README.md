@@ -8,6 +8,6 @@ If you have any issues feel free to contact us at [appstore@rodriguezst.es](mail
 
 See the [Privacy Policy](./POLICY.md).
 
-### Terms of Service
+<!-- ### Terms of Service -->
 
-See the [Terms of Service](./TOS.md).
+<!-- See the [Terms of Service](./TOS.md). -->
