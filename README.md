@@ -7,7 +7,9 @@ Manage your earnings easily from your phone and watch!
 ## Usage
 
 1) Install the app on your iPhone and then add it to your Apple Watch using the Watch App.
+
 2) Run the app on your phone and open the settings tab.
+
 3) Fill in your Binance (or Binance Testnet) API key and secret and click on save. Keys will be automatically synced to the  Apple Watch.
 
 <img src="settings.png" alt="drawing" width="300"/>
