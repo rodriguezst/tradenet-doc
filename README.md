@@ -4,6 +4,8 @@ Manage your earnings easily from your phone and watch!
 
 ![](screenshot.png)
 
+[![https://apps.apple.com/us/app/tradenet-portfolio/id1520004154](badge.png)](https://apps.apple.com/us/app/tradenet-portfolio/id1520004154)
+
 ## Usage
 
 1) Install the app on your iPhone and then add it to your Apple Watch using the Watch App.
