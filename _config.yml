@@ -1,3 +1,5 @@
+title: TradeNet Portfolio
+description: Manage your earnings easily
 plugins:
   - jekyll-relative-links
 relative_links:
