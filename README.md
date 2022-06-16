@@ -1,5 +1,7 @@
 ## TradeNet Portfolio
 
+If you have any issues feel free to contact us at [appstore@rodriguezst.es](mailto:appstore@rodriguezst.es).
+
 ### Privacy Policy
 
 See the [Privacy Policy](./POLICY.md).
