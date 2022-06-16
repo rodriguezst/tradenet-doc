@@ -5,7 +5,7 @@ At TradeNet Portfolio, one of our main priorities is the privacy of our users.
 
 The only required information for the app to work is some tokens to authenticate to Binance APIs. That token is only stored locally on your devices and never sent to our servers.
 
-Please read Binance privacy policy for information on how they treat your tokens when using their API here: https://www.binance.com/en/privacy.
+Please read Binance privacy policy for information on how they treat your tokens when using their API here: [https://www.binance.com/en/privacy](https://www.binance.com/en/privacy).
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
